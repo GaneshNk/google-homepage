@@ -51,10 +51,12 @@ li > a {
 
 .header-text > a:hover {
 	text-decoration:underline;
+	cursor: pointer;
 }
 
 li > a:hover {
 	text-decoration: underline;
+	cursor: pointer;
 }
 
 .left-f {
